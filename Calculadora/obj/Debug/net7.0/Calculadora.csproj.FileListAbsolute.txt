@@ -1,0 +1,15 @@
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/bin/Debug/net7.0/Calculadora
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/bin/Debug/net7.0/Calculadora.deps.json
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/bin/Debug/net7.0/Calculadora.runtimeconfig.json
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/bin/Debug/net7.0/Calculadora.dll
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/bin/Debug/net7.0/Calculadora.pdb
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/obj/Debug/net7.0/Calculadora.csproj.AssemblyReference.cache
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/obj/Debug/net7.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/obj/Debug/net7.0/Calculadora.AssemblyInfoInputs.cache
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/obj/Debug/net7.0/Calculadora.AssemblyInfo.cs
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/obj/Debug/net7.0/Calculadora.csproj.CoreCompileInputs.cache
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/obj/Debug/net7.0/Calculadora.dll
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/obj/Debug/net7.0/refint/Calculadora.dll
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/obj/Debug/net7.0/Calculadora.pdb
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/obj/Debug/net7.0/Calculadora.genruntimeconfig.cache
+/Users/renanfavero/Documents/dotnet-programs/ModuloTesteDio/Calculadora/obj/Debug/net7.0/ref/Calculadora.dll
