@@ -1,4 +1,3 @@
-# dotnet-testes-unitarios
-Realizando testes unitários no código utilizando o xUnit Framework.
+# dotnet-unit-tests 
 
-<h4>Comando para teste: dotnet test</h4>
+<h4>Command for initialing test: dotnet test</h4>
